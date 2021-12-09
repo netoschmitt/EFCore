@@ -29,7 +29,7 @@ namespace EFCore.Legado
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=HeroiAplicativo;Data Source=LAPTOP-NETO\\SQLEXPRESS");
+                optionsBuilder.UseSqlServer("****************************************************************************");
             }
         }
 
